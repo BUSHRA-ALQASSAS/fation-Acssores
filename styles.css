@@ -1103,3 +1103,9 @@ footer {
 .footer-item i:hover{
   color: #6ed9ec;
 }
+footer h2{
+  color: #fbd9f6;
+  font-size: 1.5rem;
+  margin-top: 40px;
+  font-family: 'Lavishly Yours Static', cursive;
+}
